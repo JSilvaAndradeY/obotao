@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
   botao: {
     width: 200,
     height: 100,
-    backgroundColor: '#E53935',
+    backgroundColor: '#355ee5ff',
     borderRadius: 15,
   },
 });
